@@ -7,7 +7,7 @@ Project is created with
 
 This app is only to check weather in a city and not weather forcast.
 
-i put requirements.txt for the requirement that i have for this application.[Live App](https://dimasyot.pythonanywhere.com/)
+check requirment in requirment.txt
 
 How to use or install this app on your computer?
 ### 1. Install the requirement.txt on your computer using pip
