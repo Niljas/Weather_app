@@ -29,3 +29,4 @@ python manage.py runserver
 
 Your django it's live now open your browser and type 127.0.0.1:8000
 Change your details in MYSQL to run the project.
+Thank you
